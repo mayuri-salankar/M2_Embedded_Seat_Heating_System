@@ -1,3 +1,5 @@
+# REQURIEMENTS:-
+
 # **Introduction:**
 
 The heat control system is basically used to control the temperature of a car seat. When a user or driver of the car gets seated on a car, the button sensor gets activated. After that, the user gets access to turn on the heater. The temperature sensor keeps monitoring the temperature and sends the analog value to the microcontroller. The microcontroller processes the analog input of the temperature sensor and outputs a temperature value through serial communication. All the activities of the activities of the control system are done on a microcontroller called Atmega328.
@@ -53,9 +55,26 @@ Heated seats can make cars much more comfortable in the winter, or for those who
 Heated front seats not only offer luxurious comfort, relaxation and benefits for physical health, but also increase safety. Heating seats and backrests ensures a high level of well-being and prevents a cramped posture. Winter clothes limiting freedom of movement can be dispensed with. This also results in better operation of the restraint system by reducing the slack in safety belts. People with back or kidney problems benefit from a possible reduction of pain. It is mostly used in cars.
 
 **Where:**
+In car seats
 
 **Why:**
 Heated seats can bring a lot of different benefits beyond just having a nice and warm place to sit. The single greatest benefit that heated seats can bring is the therapeutic warmth it offers. This is great for older drivers or people with a few aches and pains.
 
 **How:**
 The longer the seat cushion stays on, the hotter it gets. If it were to stay on for too long, it would get hot enough to become uncomfortable or even dangerous to sit in. It could even start a fire in the cushion. To prevent this, most car seat heaters have a thermostat. The thermostat measures the temperature in the cushion. When it reaches a certain temperature, the thermostat sends a signal, automatically turning off the relay until the seat cools down a bit. At that point, the thermostat turns the relay back on again. Many seat cushions also have “high” and “low” settings that let the driver control the temperature of the seat cushions.
+
+# DESIGN:-
+
+# **Behavioral Diagram:**
+![behavioural diag of seat heating system](https://user-images.githubusercontent.com/94435852/143898803-e366a9e5-d529-44e6-8099-fc0feff8db1b.png)
+
+# **Structural Diagram:**
+![structural diag of seat heating system](https://user-images.githubusercontent.com/94435852/143899016-552fb857-8f4c-4400-9090-d87af53bb08a.png)
+
+# **Block Diagram:**
+![block diagram](https://user-images.githubusercontent.com/94435852/143899302-d9f2f6db-ffa6-4d43-a2c1-94da451ec23b.jpeg)
+
+
+
+
+
