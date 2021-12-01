@@ -1,11 +1,8 @@
 # M2-Embedded_Seat_Heating_System
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f803f513abc64609aef541e8ffde0ec3)](https://www.codacy.com/gh/mayuri-salankar/M2_Embedded_Seat_Heating_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mayuri-salankar/M2_Embedded_Seat_Heating_System&amp;utm_campaign=Badge_Grade)
-
 ![code score](https://api.codiga.io/project/30212/score/svg)
-
 ![code grade](https://api.codiga.io/project/30212/status/svg)
-
 [![cppcheck-action-test](https://github.com/mayuri-salankar/M2_Embedded_Seat_Heating_System/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/mayuri-salankar/M2_Embedded_Seat_Heating_System/actions/workflows/cpp%20check.yml)
 
 ## Folder Structure
