@@ -6,6 +6,8 @@
 
 ![code grade](https://api.codiga.io/project/30212/status/svg)
 
+[![cppcheck-action-test](https://github.com/mayuri-salankar/M2_Embedded_Seat_Heating_System/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/mayuri-salankar/M2_Embedded_Seat_Heating_System/actions/workflows/cpp%20check.yml)
+
 ## Folder Structure
 Folder               | Description
 -------------------  | -----------------------------------------
